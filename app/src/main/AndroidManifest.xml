@@ -2,9 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sugarcoder.instagramclient" >
 
-
-    <uses-permission android:name="android.permission.INTERNET" />   // Allows us to send network data to the application
-
+    <uses-permission android:name="android.permission.INTERNET" />
+   // Allows us to send network data to the application
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
