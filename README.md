@@ -19,5 +19,5 @@
 ### Acknowledgements: 
 
 - <a href="http://www.codepath.com">CodePath</a>
-- CodePath Android Observer Group February 2015 cohort 
+- CodePath Android Observer Group February 2015  
 - Special Shout Out: Thanks to Dianna @CoderRed99 and all the awesome Engineers that guided me on becoming a better programmer each day!
