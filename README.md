@@ -8,7 +8,7 @@
 - For each photo displayed, users can see the following details: graphic, caption, and username.
 
 <br>
-<img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/CodePath/Insta_zpshpzauqjj.png" border="0" alt=" photo Insta_zpshpzauqjj.png" width="300" height="400" />
+<img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/CodePath/Insta_zpshpzauqjj.png" border="0" width="300" height="400" />
 
 
 ### APIs & Libraries:
